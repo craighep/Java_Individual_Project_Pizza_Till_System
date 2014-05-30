@@ -1,0 +1,74 @@
+Year:       2011 - 2012						Crh13 Craig Heptinstall
+
+Module:     CS12420
+
+Assignment Number:         2
+
+
+Assignment Description:    C12420 Assignemnt 2 Aber Pizza
+
+
+
+Worth 20% of final mark for this module
+
+
+How many hours (approx.) did you spend on this assignment? 100
+
+
+Expected Letter Grade:    65/100
+
+
+And why?
+
+Quality of code: 2/5
+Based on the quality of my code, and the amount of javadoc comments, i think i could have made the comments more detailed,
+along with a better choice of variable names in some instances where the varibales were used to calculate small problems.
+The indentation of my code was very good though, and i believe it was easy to follow.
+-----------------------------------------------
+
+Design and Implementation of the data: 16/25
+In terms of my design for the data classes, the class diagram along with other diagrams, i think i created a well supported,
+well documented data plan, that outlined the methdos and opertaions each class would perform. The structure differed from 
+the original design which reduced the way in which i met the brief.
+-----------------------------------------------
+
+Design and implementation of the GUI: 15/ 20
+The design of the gui inlcuding the class diagram and description worked very well in terms of the final product, and when 
+linking it to the data classes, i found it integrated quite well.
+-----------------------------------------------
+
+Testing: 12/ 20
+In the gui testing, i think i have made significant coverage of the frames and features of the system, although in the JUnit
+testing i could have covered a few more methods and explained in further detail what and why i tested certain classes in such
+ways.
+-----------------------------------------------
+
+WOW marks: 3/ 10
+I changed a little of the colours of the frames, and used a spring layout to create an attractive side menu, along with the self
+made loading frame which made it possible to show a list of load files rather than using the JFileChooser.
+-----------------------------------------------
+
+Documentation: 17/20  
+The documentation covered a wide area of the implementation explanation and the evaluation showed concise detail in the steps
+i followed in creating the system. It explains what i thought i could have improved and where to make the program better. I also
+gave a good descripotion of what i thought i performed well in, what i learnt from doing this assignment, and how i would make
+it better if i was to do it again.
+
+-----------------------------------------------
+   
+
+What did you Learn? 
+
+Building Swing based systems seperatly is an easier way that builing a whole GUI then adding methods to it. I also gained a great
+deal of knowledge in the JUnit testing phase, being able to use the facility to cover the main data methods in my program to ensure 
+i meet the brief to what i designed.
+
+
+
+
+
+
+
+
+
+
